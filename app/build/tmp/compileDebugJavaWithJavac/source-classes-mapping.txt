@@ -1,0 +1,4 @@
+br/com/progiv/welcome/BuildConfig.java
+ br.com.progiv.welcome.BuildConfig
+br/com/progiv/welcome/MainActivity.java
+ br.com.progiv.welcome.MainActivity

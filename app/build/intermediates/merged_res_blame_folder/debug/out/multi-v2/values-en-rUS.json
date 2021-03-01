@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/esdras/Área de Trabalho/TRABALHOS PROG 4/05 - Dimenssões Tablet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rUS/values-en-rUS.xml",
+            "map": [
+                {
+                    "source": "/home/esdras/Área de Trabalho/TRABALHOS PROG 4/05 - Dimenssões Tablet/app/src/main/res/values-en-rUS/strings.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,153,104",
+                        "endColumns": "45,63,47",
+                        "endOffsets": "98,212,147"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,165",
+                        "endColumns": "45,63,47",
+                        "endOffsets": "96,160,208"
+                    }
+                }
+            ]
+        }
+    ]
+}
